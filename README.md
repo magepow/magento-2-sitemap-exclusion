@@ -2,7 +2,7 @@
 
 Before you continue, ensure you meet the following requirements:
 
-  * You have installed magento 2
+  * You have installed Magento 2.
   * You are using a Linux or Mac OS machine. Windows is not currently supported.
 
 
@@ -18,28 +18,28 @@ php bin/magento setup:static-content:deploy -f
 
 ## 2. User guide
   #### Key features of Magento 2 Google Sitemap Extension:
-  * It allows you to exclude specific or certain Category /Product/CMS pages links from sitemap.xml of your site.
+  * It allows you to exclude specific or certain Category/Product/CMS page links from sitemap.xml of your site.
   * It allows you to exclude duplicate and unwanted URLs from the sitemap.xml.
-  * There is an attribute "Exclude from Sitemap" added to each of the category/Product/CMS pages which can be set YES/NO to include/exclude certain category, product and static page links from Google site map.
-  * It a great admin tool
-  * It fully supports multistore
-  * User friendly interface
-  * Easy to install and manage
+  * There is an attribute "Exclude from Sitemap" added to each of the category/Product/CMS pages which can be set YES/NO to include/exclude a certain category, product and static page links from Google site map.
+  * It a great admin tool.
+  * It fully supports multistore.
+  * User-friendly interface.
+  * Easy to install and manage.
   ### 2.1. Config Product, Category and Cms page 
-    `Login to Magento Admin > Catalog > Produts => Click a product in  Exclude from Sitemap, choose yes/no will hide or show link product in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/productsitemap.png)
+    `Login to Magento Admin > Catalog > Products => Click a product in  Exclude from Sitemap, choose yes/no will hide or show link product in XML Sitemap.`
+   ![Image of Magento admin config](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/productsitemap.png)
    * The same config part product config category and cms page also.
-    `Login to Magento Admin > Catalog > Categories => Click a product in  Exclude from Sitemap, choose yes/no will hide or show link category in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/categorysitemap.png)
-    `Login to Magento Admin > Content > Pages => Click edit a cms page in  Exclude from Sitemap, choose yes/no will hide or show link cms page in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/cmspagesitemap.png)
+    `Login to Magento Admin > Catalog > Categories => Click a product in  Exclude from Sitemap, choose yes/no will hide or show link category in XML Sitemap.` 
+   ![Image of Magento admin config](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/categorysitemap.png)
+    `Login to Magento Admin > Content > Pages => Click edit a cms page in  Exclude from Sitemap, choose yes/no will hide or show link cms page in XML Sitemap.` 
+   ![Image of Magento admin config](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/cmspagesitemap.png)
   ### 2.2. Result 
-   `Login to Magento Admin > Marketing > Site Map => Click Add site map > Save and click link site map will show google site map`
+   `Login to Magento Admin > Marketing > Site Map => Click Add site map > Save and click link site map will show google site map.`
   * XML Sitemap :
   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/xmlsitemap.png)
  ## Donation
 
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
+If this project help you reduce time to develop, you can give me a cup of coffee :). 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/alopay)
 
