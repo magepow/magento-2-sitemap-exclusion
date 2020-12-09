@@ -17,8 +17,8 @@ php bin/magento setup:static-content:deploy -f
 ```
   ## Install manual
   
-* extract file from archive
-* deploy file into Magento2 folder `app/code/Magepow/Sitemapexclusion`. Run following commands
+* Extract file from archive
+* Deploy file into Magento2 folder `app/code/Magepow/Sitemapexclusion`. Run following commands
 
  ```
  php bin/magento setup:upgrade
@@ -35,19 +35,18 @@ php bin/magento setup:static-content:deploy -f
   * It fully supports multistore
   * User friendly interface
   * Easy to install and manage
-  ## 1. General configuration
-  ## 2. Config Product list, Category and Cms page 
-   ### Login to magento admin, choose `CATALOG -> Produts -> click a product in  Sitemap From Exclude, choose yes/no will hide or show link product in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion-exclusion/blob/master/media/productsitemap.png)
+  ## 1. Config Product list, Category and Cms page 
+    Login to magento admin, choose `CATALOG > Produts > click a product in  Sitemap From Exclude, choose yes/no will hide or show link product in XML Sitemap` 
+   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/productsitemap.png)
    * The same config part product config category and cms page also.
-   ### Login to magento admin, choose `CATALOG -> Categories -> click a product in  Sitemap From Exclude, choose yes/no will hide or show link category in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/master/media/ImageSiteCategory.png)
-   ### Login to magento admin, choose `CONTENT -> Pages -> click edit a cms page in  Sitemap From Exclude, choose yes/no will hide or show link cms page in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/master/media/cmspage.png)
+    Login to magento admin, choose `CATALOG > Categories > click a product in  Sitemap From Exclude, choose yes/no will hide or show link category in XML Sitemap` 
+   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/ImageSiteCategory.png)
+    Login to magento admin, choose `CONTENT > Pages > click edit a cms page in  Sitemap From Exclude, choose yes/no will hide or show link cms page in XML Sitemap` 
+   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/cmspage.png)
 # Step 3: Result 
-  ### Login to magento admin, choose `MARKETING -> Site Map -> click Add site map -> save and click link site map will show google site map`
+   Login to magento admin, choose `MARKETING > Site Map > click Add site map > save and click link site map will show google site map`
   * XML Sitemap :
-  ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/master/media/xmlsitemap.png)
+  ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/xmlsitemap.png)
  ## Donation
 
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
