@@ -15,16 +15,6 @@ composer require magepow/sitemapexclusion
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy -f
 ```
-  ## Install manual
-  
-* Extract file from archive
-* Deploy file into Magento2 folder `app/code/Magepow/Sitemapexclusion`. Run following commands
-
- ```
- php bin/magento setup:upgrade
- php bin/magento setup:static-content:deploy -f
- php bin/magento cache:flush
- ```
 
 # Step 2: User guide
   ## KEY FEATURES OF MAGENTO 2 GOOGLE SITE MAP EXCLUSION EXTENSION:
@@ -40,9 +30,9 @@ php bin/magento setup:static-content:deploy -f
    ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/productsitemap.png)
    * The same config part product config category and cms page also.
     Login to magento admin > `Catalog > Categories => Click a product in  Sitemap From Exclude, choose yes/no will hide or show link category in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/ImageSiteCategory.png)
+   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/categorysitemap.png)
     Login to magento admin > `Content > Pages => Click edit a cms page in  Sitemap From Exclude, choose yes/no will hide or show link cms page in XML Sitemap` 
-   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/cmspage.png)
+   ![Image of magento store front](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/cmspagesitemap.png)
 # Step 3: Result 
    Login to magento admin > `Marketing > Site Map => Click Add site map > Save and click link site map will show google site map`
   * XML Sitemap :
