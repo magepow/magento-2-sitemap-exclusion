@@ -10,7 +10,7 @@
             </argument>
             <settings>
                 <dataType>boolean</dataType>
-                <label translate="true">Sitemap From Exclude</label>
+                <label translate="true">Exclude From Sitemap</label>
                 <dataScope>sitemap_exclude</dataScope>
             </settings>
             <formElements>
