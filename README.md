@@ -26,6 +26,7 @@ php bin/magento setup:static-content:deploy -f
   * User-friendly interface.
   * Easy to install and manage.
   ### 2.1. Config Product, Category and Cms page 
+  * Config product.
     `Login to Magento Admin > Catalog > Products => Click a product in  Exclude from Sitemap, choose yes/no will hide or show link product in XML Sitemap.`
    ![Image of Magento admin config](https://github.com/magepow/magento2-sitemap-exclusion/blob/main/media/productsitemap.png)
    * The same config part product config category and cms page also.
