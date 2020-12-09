@@ -1,0 +1,34 @@
+{
+  "name": "magepow/sitemapexclusion",
+  "description": "Magento 2 Sitemapexclusion",
+  "require": {
+    "magepow/core": "^1.0.0"
+  },
+  "type": "magento2-module",
+  "autoload": {
+    "files": ["registration.php"],
+    "psr-4": {
+      "Magepow\\Sitemapexclusion\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Magepow",
+      "email": "support@magepow.com",
+      "homepage": "https://magepow.com",
+      "role": "Technical Support"
+    }
+  ],
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Magepow/Sitemapexclusion"
+      ]
+    ]
+  }
+}
