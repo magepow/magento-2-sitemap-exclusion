@@ -17,7 +17,7 @@ php bin/magento setup:static-content:deploy -f
 ```
 
 ## 2. User guide
-  #### KEY FEATURES OF MAGENTO 2 GOOGLE SITE MAP EXCLUSION EXTENSION:
+  #### Key features of Magento 2 Google Sitemap Extension:
   * It allows you to exclude specific or certain Category /Product/CMS pages links from sitemap.xml of your site.
   * It allows you to exclude duplicate and unwanted URLs from the sitemap.xml.
   * There is an attribute "Exclude from Sitemap" added to each of the category/Product/CMS pages which can be set YES/NO to include/exclude certain category, product and static page links from Google site map.
