@@ -11,13 +11,8 @@ Before you continue, ensure you meet the following requirements:
 [![Daily Downloads](https://poser.pugx.org/magepow/sitemapexclusion/d/daily)](https://packagist.org/packages/magepow/sitemapexclusion)
 ## 1. Download Magento 2 Google Site Map Exclusion
 
- ## Install via composer (recommend)
-Run the following commands in Magento 2 root folder:
-```
-composer require magepow/sitemapexclusion
-php bin/magento setup:upgrade
-php bin/magento setup:static-content:deploy -f
-```
+* [Download Magento 2 Sitemap Exclusion](https://magepow.com/magento-2-sitemap-exclusion.html)
+
 
 ## 2. User guide
   #### Key features of Magento 2 Google Sitemap Extension:
