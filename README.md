@@ -11,7 +11,7 @@ Before you continue, ensure you meet the following requirements:
 [![Daily Downloads](https://poser.pugx.org/magepow/sitemapexclusion/d/daily)](https://packagist.org/packages/magepow/sitemapexclusion)
 ## 1. Download Magento 2 Google Site Map Exclusion
 
-* [Download Magento 2 Sitemap Exclusion](https://magepow.com/magento-2-sitemap-exclusion.html)
+* [Download Magento 2 Sitemap Exclusion Latest Version](https://magepow.com/magento-2-sitemap-exclusion.html)
 
 
 ## 2. User guide
